@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Links",
+  "name": "loopback_lycan_links",
   "icons": [
     {
       "src": "favicon.ico",
