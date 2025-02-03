@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loopback-lycan-links/static/css/main.4bb40a25.css",
+    "main.js": "/loopback-lycan-links/static/js/main.ceb57e71.js",
+    "static/js/488.3bad3e6f.chunk.js": "/loopback-lycan-links/static/js/488.3bad3e6f.chunk.js",
+    "index.html": "/loopback-lycan-links/index.html",
+    "main.4bb40a25.css.map": "/loopback-lycan-links/static/css/main.4bb40a25.css.map",
+    "main.ceb57e71.js.map": "/loopback-lycan-links/static/js/main.ceb57e71.js.map",
+    "488.3bad3e6f.chunk.js.map": "/loopback-lycan-links/static/js/488.3bad3e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb40a25.css",
+    "static/js/main.ceb57e71.js"
+  ]
+}
